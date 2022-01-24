@@ -547,7 +547,7 @@ nav {
 }
 
 /* responsive */
-@media (max-width: 750px) {
+@media (min-width: 600px) {
   .nav-links {
     flex-direction: column;
     position: fixed;
