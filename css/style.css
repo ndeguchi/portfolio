@@ -174,7 +174,7 @@ footer{
   margin: 20px auto;
 }
 
-@media (max-width: 750px) {
+@media (min-width: 600px) {
   
   .homewrapper img{
     width: 100%;
@@ -341,7 +341,7 @@ textarea{
   background: black;
 }
 
-@media (max-width: 750px){
+@media (min-width: 600px){
   .contactwrapper, .contacttext{
     width: 100%;
     margin: auto;
