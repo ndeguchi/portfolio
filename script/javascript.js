@@ -120,7 +120,6 @@ form.addEventListener("submit", function( event ){
         errorMessagesphone.innerHTML += `Please enter a valid phone number`;
         phone2.classList.add("error_highlight");
         errorsDetected = true; 
-        console.log("error");
 
     }else{
 
